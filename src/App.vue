@@ -1,6 +1,6 @@
 <script setup>
 // import HelloWorld from './components/HelloWorld.vue';
-import HeaderHome from './components/headerHome.vue';
+import HeaderHome from './components/HeaderHome.vue';
 </script>
 
 <template>
